@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Boylair</h1>
 <h3 align="center">A beginner developer from Hungary</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=redrage320&label=Profile%20views&color=0e75b6&style=flat" alt="redrage320" /> </p>
